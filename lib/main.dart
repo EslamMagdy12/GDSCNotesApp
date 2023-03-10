@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'GDSC Notes2 App',
+      title: 'GDSC Notes App',
       home: HomeScreen(),
     );
   }
