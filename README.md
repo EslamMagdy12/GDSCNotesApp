@@ -1,4 +1,4 @@
-# GDSC Note App
+# gdsc2_notes_app
 
 A new Flutter project.
 
